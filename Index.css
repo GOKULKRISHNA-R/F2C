@@ -1,0 +1,41 @@
+nav{
+	text-align: right;
+}
+
+nav ul a{
+    margin-top: 20px;
+	display: inline-block;
+	margin-right: 20px;
+    color: #000;
+    text-decoration: none;
+}
+
+.head{
+	background: radial-gradient(#9fdf9f,#339933);
+    background-repeat: no-repeat;
+}
+
+.gk
+{
+    background-image: url(./Images/index1.jpg);
+}
+
+h1{
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.image1
+{
+    width:auto  ;
+    height:auto ; 
+    padding: 20px ;
+    align-self:center;
+    margin: auto;    
+}
+
+form
+{
+    max-width: 500px ;
+    margin: auto;
+}
